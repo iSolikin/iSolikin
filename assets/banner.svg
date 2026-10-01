@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">iSolikin — Automation and Security</title>
+  <desc id="desc">Dark banner with connected automation nodes and the iSolikin name.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#101a2b"/>
+      <stop offset="1" stop-color="#17334b"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop stop-color="#59e1bf"/>
+      <stop offset="1" stop-color="#72a8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1045" cy="150" r="114" fill="none" stroke="#426682" stroke-width="1"/>
+  <circle cx="1045" cy="150" r="75" fill="none" stroke="#426682" stroke-width="1"/>
+  <path d="M950 118 1045 150 1090 75M1045 150l80 58M1045 150l-62 73" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#59e1bf"><circle cx="950" cy="118" r="8"/><circle cx="1045" cy="150" r="10"/><circle cx="1090" cy="75" r="8"/><circle cx="1125" cy="208" r="8"/><circle cx="983" cy="223" r="8"/></g>
+  <rect x="64" y="59" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="139" fill="#f0f7ff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">iSolikin</text>
+  <text x="68" y="190" fill="#9fc4d8" font-family="Arial,Helvetica,sans-serif" font-size="23">AUTOMATION  /  AI-ASSISTED DEVELOPMENT  /  SECURITY</text>
+  <text x="68" y="246" fill="#59e1bf" font-family="Arial,Helvetica,sans-serif" font-size="18">Build faster. Check carefully.</text>
+</svg>
