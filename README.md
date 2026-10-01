@@ -6,7 +6,7 @@
 
 Работаем с браузерными расширениями, Python, JavaScript и панелями мониторинга. Поддерживаем проекты после запуска.
 
-[![Написать в Telegram](https://img.shields.io/badge/Telegram-обсудить_задачу-229ED9?logo=telegram&logoColor=white)](https://t.me/Animuchi)
+[![Написать в Telegram](https://img.shields.io/badge/Telegram-обсудить_задачу-229ED9?logo=telegram&logoColor=white)](https://t.me/isolikin)
 
 ## Проекты
 
@@ -22,4 +22,4 @@
 
 ## Есть задача для автоматизации?
 
-[Напишите @Animuchi](https://t.me/Animuchi): расскажите, что хотите автоматизировать, или назовите проект из портфолио. Подберём формат работы и условия доступа.
+[Напишите @isolikin](https://t.me/isolikin): расскажите, что хотите автоматизировать, или назовите проект из портфолио. Подберём формат работы и условия доступа.
